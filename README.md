@@ -1,13 +1,12 @@
-# Pengalaman Belajar di Dicoding
-Tahun 2021<br>
-Pada tahun ini aku mulai coba aktif mencari kelas kelas online.Aku mencoba salah satunya dicoding.
-Aku mulai tertarik dengan dunia percodingan.Sampai detik ini sudah ada kemajuan sebesar.(Proggress 20%)<br>
-*Mulai mencoba mempelajari HTML.<br>
-*Mencoba SQL.<br>
-*Looker Data Studio.<br>
+Pengalaman Belajar di Dicoding
 
-Tahun 2022<br>
-Pada tahun ini aku sempat vacum dari dunia percodingan dan fokus ke bagian marketing.Aku mencoba banyak hal sih.Aku menyukai belajar banyak hal.Ada banyak yang aku ikuti.(Proggress 50%)<br>
-*Belajar jadi Brand Ambassador<br>
-*Mengikuti berbagai volunteer<br>
-*Belajar sosial media organik<br>
+14 Juni 2021
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+* Belajar tentang apa itu Java dan alasan menggunakannya.
+* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+
+15 Juni 2021
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
+* Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
+* Belajar control flow dalam Java, seperti perulangan dan percabangan.
+* Belajar tipe data koleksi, seperti list, set, dan map.
